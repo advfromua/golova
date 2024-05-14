@@ -1,0 +1,57 @@
+{
+    "_toDisableOptionsList": {
+        "widgets": {
+            "duplicate": false
+        }
+    },
+    "dashboardid": "6643a9638b95e40037367b29",
+    "datasource": {
+        "address": "LocalHost",
+        "database": "aSampleIAAaHealthcare",
+        "fullname": "localhost/Sample Healthcare",
+        "id": "localhost_aSampleIAAaHealthcare",
+        "live": false,
+        "title": "Sample Healthcare"
+    },
+    "desc": null,
+    "metadata": {
+        "ignore": {
+            "all": false,
+            "dimensions": [
+            ],
+            "ids": [
+            ]
+        },
+        "panels": [
+        ],
+        "usedFormulasMapping": {
+        }
+    },
+    "oid": "6643a9668b95e40037367b2b",
+    "options": {
+        "dashboardFiltersMode": "filter",
+        "disableExportToCSV": true,
+        "disableExportToImage": true,
+        "disallowSelector": true,
+        "disallowWidgetTitle": true,
+        "hideFromWidgetList": true,
+        "selector": false,
+        "supportsHierarchies": false,
+        "toolbarButton": {
+            "css": "add-rich-text",
+            "tooltip": "RICHTEXT_MAIN.TOOLBAR_BUTTON"
+        },
+        "triggersDomready": true
+    },
+    "style": {
+        "content": {
+            "bgColor": "#FFFFFF",
+            "html": "<font size=\"5\">Sho tu golova</font>",
+            "textAlign": "center",
+            "vAlign": "valign-middle"
+        }
+    },
+    "subtype": "richtexteditor",
+    "title": "RICHTEXT_MAIN.TITLE",
+    "type": "richtexteditor"
+}
